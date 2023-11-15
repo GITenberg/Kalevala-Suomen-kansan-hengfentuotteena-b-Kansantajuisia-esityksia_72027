@@ -1,0 +1,31 @@
+_repo: Kalevala-Suomen-kansan-hengfentuotteena-b-Kansantajuisia-esityksia_72027
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Hästesko, F. A.
+    gutenberg_agent_id: '56503'
+    url: http://www.gutenberg.org/2009/agents/56503
+description: ''
+gutenberg_issued: '2023-11-04'
+identifiers:
+  gutenberg: '72027'
+language: fi
+pgterms:marc905: 20210411053829hstesko
+pgterms:marc906: '1910'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kalevala Suomen kansan hengfentuotteena : $b Kansantajuisia esityksiä'
+url: http://www.gutenberg.org/ebooks/72027
