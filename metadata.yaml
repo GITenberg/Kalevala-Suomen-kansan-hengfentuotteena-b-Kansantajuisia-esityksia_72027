@@ -1,5 +1,8 @@
 _repo: Kalevala-Suomen-kansan-hengfentuotteena-b-Kansantajuisia-esityksia_72027
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '56503'
     url: http://www.gutenberg.org/2009/agents/56503
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72027#Kalevala-Suomen-kansan-hengfentuotteena-b-Kansantajuisia-esityksia
 gutenberg_issued: '2023-11-04'
 identifiers:
   gutenberg: '72027'
